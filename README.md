@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 Chrrently pursuing Btech CSE(AI&DS) from PCU<br>💪 Looking for collaboration in projects  <br>🧬 I'm still learnin<br>🕚 Ask me about my works<br>⚡Fun Fact: I'm still learning abot life<br>
+🏫 Currently pursuing Btech CSE(AI&DS) from PCU<br>💪 Looking for collaboration in projects  <br>🧬 I'm still learnin<br>🕚 Ask me about my works<br>⚡Fun Fact: I'm still learning about life<br>
 
 
 ## 🌐 Socials:
@@ -20,4 +20,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mudit021&icon=10&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
