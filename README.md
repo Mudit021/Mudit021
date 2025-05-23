@@ -1,5 +1,5 @@
 # 💫 About Me:
-.<br>.<br>.<br>.<br>.<br>
+🏫 Chrrently pursuing Btech CSE(AI&DS) from PCU<br>💪 Looking for collaboration in projects  <br>🧬 I'm still learnin<br>🕚 Ask me about my works<br>⚡Fun Fact: I'm still learning abot life<br>
 
 
 ## 🌐 Socials:
